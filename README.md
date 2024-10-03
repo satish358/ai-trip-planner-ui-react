@@ -2,7 +2,7 @@
 
 The AI Trip Planner Frontend is a React-based web application that provides users with a seamless interface to plan personalized trips. Built with modern design and responsive features, the app allows users to input travel details such as the number of days, preferred travel style (e.g., relaxation, adventure), and city. The AI then generates a tailored itinerary, offering recommendations for activities, sightseeing, dining, and more. The React framework ensures a fast, dynamic user experience, making it easy to create, view, and customize your travel plans in real-time.
 
-- Python backend repository - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)
+- Python backend repository - [AI-Trip-Planner-Python](https://github.com/satish358/AI-Trip-Planner-Python)
 
 ## How to run the frontend
 
