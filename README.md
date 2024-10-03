@@ -29,4 +29,4 @@ export const BASE_API_URL = "http://127.0.0.1:YOUR_PORT_NUMBER";
 
 - Fist stop the `dev` server if running.
 - Then use `npm run build` to build the project.
-- Replace the `dist` folder to backend folder.
+- Replace the `dist` folder in backend with newly build folder.
